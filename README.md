@@ -2,7 +2,12 @@
 
 # Projeto
 
-WatchMe é uma plataforma de filmes(com um menu lateral com seus generos) ultilizando um server estatico e local(json-server)
+WatchMe é uma plataforma de filmes(com um menu lateral com seus gêneros) utilizando um server estático e local(json-server) focado em performance.
+
+Usando os conceitos de [performace](https://github.com/GabriellArthur/Performando-apps-com-ReactJS)
+
+- memo
+- useCallback
 
 # Desafio
 [Desafio](https://efficient-sloth-d85.notion.site/Desafio-01-Otimizando-a-aplica-o-2942004b422d455891756300d88d0b9a)
